@@ -18,6 +18,7 @@ then run
 
 ### Documentation
 - Database tables = http://localhost:8080/h2-console/
+- Postman collection = https://documenter.getpostman.com/view/6597143/2s9YJdUMei
 
 ### DATABASE
 - DB = H2 in memory
